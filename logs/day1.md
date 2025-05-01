@@ -16,7 +16,7 @@
 
 ---
 
-## 🔍 Key Concepts:
+## 🔍 Key Concepts Learned:
 
 - Python treats everything as an object—even numbers and strings.
 - Type conversion is essential (`int()`, `float()`, `str()`).
