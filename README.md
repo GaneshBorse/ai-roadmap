@@ -29,11 +29,14 @@ All daily progress is tracked here:
 
 | Repo | Description |
 |------|-------------|
+
 | [ai-roadmap](https://github.com/GaneshBorse/ai-roadmap) | 🧠 Central Hub – roadmap, daily logs, and progress tracker |
 | [ai-python](https://github.com/GaneshBorse/ai-python) | 🐍 Python fundamentals for AI/ML |
 | [ai-math-foundation](https://github.com/GaneshBorse/ai-math-foundation) | 📐 Core math for machine learning: linear algebra, calculus, probability |
 | [ai-ML-foundation](https://github.com/GaneshBorse/ai-ML-foundation) | 🤖 Foundational machine learning concepts and models |
 | [ai-IBM-Professional-Cert](https://github.com/GaneshBorse/ai-IBM-Professional-Cert) | 🏗️ Coursework and projects from IBM AI Engineering Professional Certificate |
+
+
 
 ---
 
