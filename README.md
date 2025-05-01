@@ -18,7 +18,7 @@ I'm learning from scratch with a focus on deep fundamentals, real-world skills, 
 |------|-------------|
 | [AI-Engineer-Roadmap](https://github.com/your-username/ai-roadmap) | 🌱 This hub – daily logs, roadmap, and progress tracking |
 | [AI-Engineer-py4e](https://github.com/your-username/ai-python-foundations) | 🐍 Python basics and core programming concepts |
-| [AI-Engineer-math-notes](https://github.com/your-username/ai-math-notes) | 📐 Linear Algebra, Calculus, Probability – for ML/AI |
+| [AI-Engineer-math](https://github.com/your-username/ai-math-notes) | 📐 Linear Algebra, Calculus, Probability – for ML/AI |
 | [AI-Engineer-ML](https://github.com/your-username/ai-dsa-cpp) | 💻 DSA in C++ – for building problem-solving skills |
 | [AI-Engineer-projects](https://github.com/your-username/ai-projects) | 🧪 Mini AI/ML projects & experiments |
 
