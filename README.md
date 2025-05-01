@@ -14,7 +14,7 @@ I'm learning from scratch with a focus on deep fundamentals, real-world skills, 
 ## 🧭 My Learning Roadmap
 
 You can find the detailed roadmap with links to each course, project, and milestone here:  
-➡️ [`roadmap.md`](roadmap.md)
+➡️ [`roadmap.md`](roadmap.md) <<<<<<  SOON i will Upload It ;)
 
 ---
 
