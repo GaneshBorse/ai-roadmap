@@ -46,10 +46,10 @@ You can find the detailed roadmap with links to each course, project, and milest
 
 ## 📬 Connect
 
-- 🐙 [GitHub](https://github.com/your-username)
-- 💻 [LeetCode](https://leetcode.com/your-id/)
-- 🐦 [X (Twitter)](https://x.com/your-handle)
-- 📸 [Instagram](https://instagram.com/your-handle)
-
+- 🐙 [GitHub](https://github.com/GaneshBorse)
+- 💬 [LinkedIn](https://www.instagram.com/code.ganesh.borse_/ )
+- 💻 [LeetCode](https://leetcode.com/your-id/)  
+- 🐦 [X (Twitter)]( https://x.com/geekanex )  
+- 📸 [Instagram]( https://www.linkedin.com/in/geekanex/)
 ---
 
