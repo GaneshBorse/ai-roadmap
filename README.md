@@ -1,6 +1,6 @@
 
 
-# 🧠 AI Engineer Roadmap  Central hub
+# 🧠 AI Engineer Roadmap - Central hub
 
 Welcome to my **AI Engineer learning journey** — documented in public, one day at a time.
 
@@ -29,11 +29,14 @@ All daily progress is tracked here:
 
 | Repo | Description |
 |------|-------------|
-| [AI-Engineer-Roadmap](https://github.com/your-username/ai-roadmap) | 🌱 This hub – daily logs, roadmap, and progress tracking |
-| [AI-Engineer-py4e](https://github.com/your-username/ai-python-foundations) | 🐍 Python basics and core programming concepts |
-| [AI-Engineer-math](https://github.com/your-username/ai-math-notes) | 📐 Linear Algebra, Calculus, Probability – for ML/AI |
-| [AI-Engineer-ML](https://github.com/your-username/ai-dsa-cpp) | 💻 DSA in C++ – for building problem-solving skills |
-| [AI-Engineer-projects](https://github.com/your-username/ai-projects) | 🧪 Mini AI/ML projects & experiments |
+
+| [ai-roadmap](https://github.com/GaneshBorse/ai-roadmap) | 🧠 Central Hub – roadmap, daily logs, and progress tracker |
+| [ai-python](https://github.com/GaneshBorse/ai-python) | 🐍 Python fundamentals for AI/ML |
+| [ai-math-foundation](https://github.com/GaneshBorse/ai-math-foundation) | 📐 Core math for machine learning: linear algebra, calculus, probability |
+| [ai-ML-foundation](https://github.com/GaneshBorse/ai-ML-foundation) | 🤖 Foundational machine learning concepts and models |
+| [ai-IBM-Professional-Cert](https://github.com/GaneshBorse/ai-IBM-Professional-Cert) | 🏗️ Coursework and projects from IBM AI Engineering Professional Certificate |
+
+
 
 ---
 
