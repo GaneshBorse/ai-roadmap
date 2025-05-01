@@ -14,7 +14,7 @@ I'm learning from scratch with a focus on deep fundamentals, real-world skills, 
 ## 🧭 My Learning Roadmap
 
 You can find the detailed roadmap with links to each course, project, and milestone here:  
-➡️ [`roadmap.md`](roadmap.md)
+➡️ [`roadmap.md`](roadmap.md) <<<<<<  SOON i will Upload It ;)
 
 ---
 
@@ -34,7 +34,6 @@ All daily progress is tracked here:
 | [ai-math-foundation](https://github.com/GaneshBorse/ai-math-foundation) | 📐 Core math for machine learning: linear algebra, calculus, probability |
 | [ai-ML-foundation](https://github.com/GaneshBorse/ai-ML-foundation) | 🤖 Foundational machine learning concepts and models |
 | [ai-IBM-Professional-Cert](https://github.com/GaneshBorse/ai-IBM-Professional-Cert) | 🏗️ Coursework and projects from IBM AI Engineering Professional Certificate |
-
 
 
 ---
