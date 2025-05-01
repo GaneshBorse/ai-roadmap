@@ -36,7 +36,6 @@ All daily progress is tracked here:
 | [ai-IBM-Professional-Cert](https://github.com/GaneshBorse/ai-IBM-Professional-Cert) | 🏗️ Coursework and projects from IBM AI Engineering Professional Certificate |
 
 
-
 ---
 
 ## 🧩 Tech Stack
