@@ -1,6 +1,6 @@
 
 
-# 🧠 AI Engineer Roadmap  Central hub
+# 🧠 AI Engineer Roadmap - Central hub
 
 Welcome to my **AI Engineer learning journey** — documented in public, one day at a time.
 
