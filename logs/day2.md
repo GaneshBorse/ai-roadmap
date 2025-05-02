@@ -1,6 +1,10 @@
 # Day 2 — Python Foundations
 
 **Date:** 2025-05-02
+ 
+📍 **Track**: [Python for Everybody – University of Michigan (Coursera)](https://www.coursera.org/learn/python)
+
+---
 
 ## Topics Covered
 - Conditional statements: `if`, `elif`, `else`
